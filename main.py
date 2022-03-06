@@ -19,4 +19,6 @@ if __name__ == '__main__':
     print('greetings')
     print('new line')
     print(func1(2, 4))
+
+    x = 3
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
