@@ -4,7 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 def func1(a, b):
-    return a + b
+    return a - b
 
 
 def print_hi(name):
